@@ -1,0 +1,48 @@
+export const satis = [
+  {
+    id: 1,
+    title: "Ăn uống",
+    color: "#F096D3",
+    img: require("../storages/monthfund/img1.png"),
+    money: "3.000.000đ",
+    trade: "15 giao dịch",
+    per: "44,5%",
+  },
+  {
+    id: 2,
+    title: "Dịch vụ sinh hoạt",
+    color: "#FF724D",
+    img: require("../storages/monthfund/img3.png"),
+    money: "1.750.000đ",
+    trade: "2 giao dịch",
+    per: "25%",
+  },
+
+  {
+    id: 3,
+    title: "Phát triển bản thân",
+    color: "#F9DC5C",
+    img: require("../storages/monthfund/img4.png"),
+    money: "640.000đ",
+    trade: "2 giao dịch",
+    per: "9,5%",
+  },
+  {
+    id: 4,
+    title: "Trang phục",
+    color: "#FF87AB",
+    img: require("../storages/monthfund/img5.png"),
+    money: "500.000đ",
+    trade: "2 giao dịch",
+    per: "7,4%",
+  },
+  {
+    id: 5,
+    title: "Đi lại",
+    color: "#6ABE68",
+    img: require("../storages/monthfund/img2.png"),
+    money: "120.000đ",
+    trade: "4 giao dịch",
+    per: "2,6%",
+  },
+];
